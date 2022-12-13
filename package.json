@@ -22,7 +22,7 @@
     "body-parser": "^1.19.0",
     "core-js": "^2.5.4",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.9.5",
     "router": "^1.3.5",
     "rxjs": "~6.3.3",
